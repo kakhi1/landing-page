@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .font-outline-2 {
+    -webkit-text-stroke: 1px #1b1c57;
+  }
+  .font-outline-4 {
+    -webkit-text-stroke: 4px black;
+  }
+}

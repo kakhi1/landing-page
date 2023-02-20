@@ -1,4 +1,10 @@
 import { Home } from "./Home";
 import { Recomendation } from "./Recomendation";
+import { Tour } from "./Tour";
+import { Review } from "./Review";
+import { Partner } from "./Partner";
 export { Home };
 export { Recomendation };
+export { Tour };
+export { Review };
+export { Partner };

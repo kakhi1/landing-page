@@ -7,7 +7,7 @@ import { FaWallet } from "react-icons/fa";
 
 const Recomendation = () => {
   return (
-    <div className="max-w-[1440px] h-[620px]">
+    <div className="max-w-[1440px] h-[800px]">
       {/* header */}
       <div className="md:ml-[66px] md:w-[1240px] flex flex-row justify-between">
         <div className="md:h-[70px] flex flex-col items-start">

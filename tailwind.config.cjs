@@ -40,6 +40,11 @@ module.exports = {
         darlene: "url('./assets/darlene.png')",
         partner3: "url('./assets/partner3.png')",
         cameron: "url('./assets/cameron.png')",
+        subscribe: "url('./assets/subscribe.png')",
+        subscribe1: "url('./assets/subscribe1.png')",
+        subscribe2: "url('./assets/subscribe2.png')",
+        subscribe3: "url('./assets/subscribe3.png')",
+        subscribe4: "url('./assets/subscribe4.png')",
       },
     },
     fontFamily: {
